@@ -16,13 +16,20 @@
 
 ### 🧰 Tech Stack
 
-| Domain         | Tools & Technologies                                                                 |
-|----------------|----------------------------------------------------------------------------------------|
-| 💻 Programming | Java, C, JavaScript                                                                   |
-| 🌐 Web         | HTML, CSS, JS, Bootstrap                                                              |
-| 🗄️ Database     | SQL (MySQL)                                                                            |
-| ☁️ Cloud        | AWS (EC2, EBS, S3, IAM), Linux (Amazon Linux), Git                                    |
-| 🔧 Tools       | VSCode, Git & GitHub, Postman, REST APIs                                              |
+#### Languages & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+</p>
 
 ---
 
@@ -37,9 +44,19 @@
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** hrushikesh.mahadik2003@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/hrushikesh-mahadik)  
+- 📧 **Email:** hrushikeshm1905@gmail.com  
+- 💼 [**LinkedIn**]([https://www.linkedin.com/in/hrushikesh-mahadik](https://www.linkedin.com/in/hrushikeshvijaymahadik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 🖥️ [**GitHub**](https://github.com/hrushikesh-mahadik)
+
+---
+
+### 🖼️ My Banner / Profile Image
+
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
+</p>
+
+<!-- You can replace the above link with your own banner image -->
 
 ---
 
