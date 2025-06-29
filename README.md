@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💡 Passionate about Web Development and Cloud Computing
+- 💡 Passionate Devlopment & Data Science, AI enthusiast. 
 - 💻 Skilled in **Java**, **C**, **JavaScript**, **HTML/CSS**, **SQL**
 - ☁️ Learning and building on **AWS** (EC2, EBS, S3, IAM)
 - 🛠️ Currently working on real-world projects involving cloud deployment and system design
@@ -45,16 +45,12 @@
 ### 📫 Connect with Me
 
 - 📧 **Email:** hrushikeshm1905@gmail.com  
-- 💼 [**LinkedIn**]([https://www.linkedin.com/in/hrushikesh-mahadik](https://www.linkedin.com/in/hrushikeshvijaymahadik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/hrushikeshvijaymahadik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🖥️ [**GitHub**](https://github.com/hrushikesh-mahadik)
 
 ---
 
-### 🖼️ My Banner / Profile Image
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Welcome+to+My+GitHub+Profile" alt="Banner" />
-</p>
 
 <!-- You can replace the above link with your own banner image -->
 
