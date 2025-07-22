@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hrushikesh Vijay Mahadik
 
-🎓 Computer Engineering Student | 💻 Web & Cloud Enthusiast | 📍 India
+🎓 Computer Engineering Student | 💻 DSA & Cloud Enthusiast | 📍 India
 
 ---
 
