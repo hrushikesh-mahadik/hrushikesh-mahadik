@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 💡 Passionate Devlopment & Data Science, AI enthusiast. 
+- 💡 Passionate Devlopment & Cloud Computing. 
 - 💻 Skilled in **Java**, **C**, **JavaScript**, **HTML/CSS**, **SQL**
 - ☁️ Learning and building on **AWS** (EC2, EBS, S3, IAM)
 - 🛠️ Currently working on real-world projects involving cloud deployment and system design
