@@ -4,7 +4,6 @@
 🎓 Computer Engineering Student | 📍 India  
 
 ---
-
 ## 🚀 About Me
 
 - 💡 Passionate about Software Development & Cloud Computing  
