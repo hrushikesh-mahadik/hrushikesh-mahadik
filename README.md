@@ -40,19 +40,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrushikesh-mahadik&theme=github_dark"/>
 </p>
 
-## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
-
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh-mahadik&theme=github-compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=hrushikesh-mahadik&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 # 🎯 Current Focus
