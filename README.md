@@ -16,33 +16,13 @@
 
 ## 🚀 About Me
 
-```java
-public class Hrushikesh {
+## 🚀 About Me
 
-    String role = "Java Developer";
-
-    String education = "B.E. Computer Engineering";
-
-    String[] skills = {
-        "Java",
-        "C",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL"
-    };
-
-    String[] learning = {
-        "Spring Boot",
-        "AWS",
-        "DSA"
-    };
-
-    String goal = "Become a Job-Ready Java Full Stack Developer";
-
-}
-```
-
+- 💻 Passionate about Java Development and Software Engineering
+- 🌱 Currently learning Spring Boot, AWS, and Data Structures & Algorithms
+- 🎯 Goal: Become a Job-Ready Java Full Stack Developer
+- 📚 Preparing for Software Development Interviews
+- 🤝 Always eager to learn new technologies and build real-world projects
 ---
 
 # 🛠 Tech Stack
@@ -55,26 +35,19 @@ public class Hrushikesh {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh-mahadik&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh-mahadik&theme=github-compact&hide_border=true"/>
 </p>
-
 ---
 
 # 🎯 Current Focus
