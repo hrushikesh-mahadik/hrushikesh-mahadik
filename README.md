@@ -37,12 +37,11 @@
 ---
 
 
-## ⚡ Developer Metrics
+## 🟡Contributions
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrushikesh-mahadik&theme=github_dark&utcOffset=5.5"/>
+  <img src="https://raw.githubusercontent.com/hrushikesh-mahadik/hrushikesh-mahadik/output/pacman-contribution.svg" width="100%" alt="Pac-Man Contribution Animation">
 </p>
-
 ---
 
 ## 📌 Current Focus
