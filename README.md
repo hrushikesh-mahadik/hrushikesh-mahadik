@@ -1,59 +1,126 @@
-# 👋 Hi, I'm Hrushikesh Vijay Mahadik
+# <div align="center">
 
-💻 Java Developer | Cloud Learner | Govt Exam Aspirant  
-🎓 Computer Engineering Student | 📍 India  
+# 👋 Hi, I'm **Hrushikesh Vijay Mahadik**
 
----
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;AWS+Cloud+Learner;Computer+Engineering+Graduate;Always+Learning+Something+New..." />
 
-- 💡 Passionate about Software Development & Cloud Computing  
-- 💻 Skilled in Java, C, JavaScript, HTML, CSS, SQL  
-- ☁️ Learning AWS (EC2, S3, RDS, EBS)  
-- 📚 Preparing for IBPS SO and AFCAT 
-- 🎯 Goal: Crack Govt Exams + Become Job-Ready Developer  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrushikeshvijaymahadik)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hrushikesh-mahadik)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:hrushikeshm1905@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
----
-
-
-## 📊 GitHub Analytics
+### 💻 Java Developer • ☁️ AWS Cloud Learner • 🚀 Future Full Stack Developer
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=hrushikesh-mahadik&style=for-the-badge&color=0e75b6" />
 </p>
----
 
-## 📌 Current Focus
-
-- Java OOPs  
-- Basic DSA  
-- AWS Cloud  
-- Govt Exam Preparation  
+</div>
 
 ---
 
-### ✍️ Quote
+## 🚀 About Me
 
-> "Consistency beats talent." 🚀
+```java
+public class Hrushikesh {
+
+    String role = "Java Developer";
+
+    String education = "B.E. Computer Engineering";
+
+    String[] skills = {
+        "Java",
+        "C",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL"
+    };
+
+    String[] learning = {
+        "Spring Boot",
+        "AWS",
+        "DSA"
+    };
+
+    String goal = "Become a Job-Ready Java Full Stack Developer";
+
+}
+```
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,mysql,mongodb,aws,linux,git,github,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushikesh-mahadik&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+* ☕ Mastering Core Java & OOP
+* 🌱 Learning Spring Boot
+* 📚 Practicing Data Structures & Algorithms
+* ☁️ Exploring AWS (EC2, S3, RDS, IAM)
+* 🎯 Preparing for Software Development Roles
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hrushikeshvijaymahadik">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/hrushikesh-mahadik">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:[hrushikeshm1905@gmail.com](mailto:hrushikeshm1905@gmail.com)">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> **"Consistency beats talent"** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Happy Coding 💙**
+
+</div>
