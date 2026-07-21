@@ -37,10 +37,11 @@
 ---
 
 
-## 🟡Contributions
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hrushikesh-mahadik/hrushikesh-mahadik/output/pacman-contribution.svg" width="100%" alt="Pac-Man Contribution Animation">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 ---
 
