@@ -36,11 +36,11 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-## 📊 GitHub Analytics
+
+## 📈 Contribution Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrushikesh-mahadik&theme=github_dark" width="100%"/>
 </p>
 
 ---
