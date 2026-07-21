@@ -40,8 +40,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hrushikesh-mahadik&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushikesh-mahadik&layout=compact&theme=tokyonight" />
 </p>
 ---
 
